@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kenny Wong Works"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome! This is my personal portfolio of graduate and professional work in the fields of Architecture and Urban & Regional Planning.
